@@ -1,4 +1,4 @@
-# Information Retrieval project 
+# Information Retrieval project (Regasirea Informatiei)
 
 Application for Information Retrieval course 
 It consists of
